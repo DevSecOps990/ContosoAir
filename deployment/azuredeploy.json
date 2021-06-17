@@ -14,7 +14,7 @@
 			"type": "string"
 		},
 		"p_site_web_name": {
-			"defaultValue": "web",
+			"defaultValue": "sujyotweb",
 			"type": "string"
 		},
 		"p_comosdb_name": {
